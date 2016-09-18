@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1429420077 source:/home/nithin/c_projects/assembler/generator.c
+	<stdio.h>
+	<string.h>
+	<stdint.h>
+
